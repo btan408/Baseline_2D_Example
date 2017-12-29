@@ -1,7 +1,7 @@
 platform    = {}
 player      = {}
 
--- branch2
+-- added dtan44 as collaborator
 
 function love.load()
     -- This is the height and the width of the platform
