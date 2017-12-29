@@ -1,6 +1,8 @@
 platform    = {}
 player      = {}
 
+-- branch2
+
 function love.load()
     -- This is the height and the width of the platform
     platform.width  = love.graphics.getWidth()  -- This makes the platform as wide as the whole game window
